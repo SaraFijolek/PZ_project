@@ -19,7 +19,6 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddScoped<IJwtTokenService, JwtTokenService>();
 
 
-// Swagger z JWT
 builder.Services.AddSwaggerGen(options =>
 {
     options.SwaggerDoc("v1", new OpenApiInfo
@@ -55,11 +54,11 @@ builder.Services.AddSwaggerGen(options =>
     });
 });
 
-// DbContext
+
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// Identity
+
 builder.Services.AddIdentity<ApplicationUser, IdentityRole<int>>(options =>
 {
     options.Password.RequireDigit = true;
@@ -69,9 +68,9 @@ builder.Services.AddIdentity<ApplicationUser, IdentityRole<int>>(options =>
 .AddEntityFrameworkStores<ApplicationDbContext>()
 .AddDefaultTokenProviders();
 
-// JWT Authentication
+
 var jwtConfig = builder.Configuration.GetSection("Jwt");
-var key = Encoding.UTF8.GetBytes(jwtConfig["Key"]);
+var key = Encoding.UTF8.GetBytes(jwtConfig["Key"] ?? string.Empty);
 
 builder.Services
     .AddAuthentication(options =>
@@ -96,19 +95,39 @@ builder.Services
         };
     });
 
-// Authorization
+
 builder.Services.AddAuthorization(options =>
 {
     options.AddPolicy("AdminOnly", policy => policy.RequireRole("Admin"));
     options.AddPolicy("Worker", policy => policy.RequireRole("Worker", "Admin"));
 });
 
-// AutoMapper
+
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 var app = builder.Build();
 
-// Swagger w Dev
+
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    var config = services.GetRequiredService<IConfiguration>();
+
+    try
+    {
+        
+        await SeedData.InitializeAsync(services, config);
+    }
+    catch (Exception ex)
+    {
+
+        var logger = services.GetRequiredService<ILogger<Program>>();
+        logger.LogError(ex, "B³¹d podczas seedowania danych.");
+        
+    }
+}
+
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
