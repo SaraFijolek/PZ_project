@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|c:\\users\\saras\\onedrive\\dokumenty\\programowanie-projekty\\api_pz\\pharmacy_api\\pharmacy_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|solutionrelative:pharmacy_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|c:\\users\\saras\\onedrive\\dokumenty\\programowanie-projekty\\api_pz\\pharmacy_api\\pharmacy_api\\controllers\\authcontrolle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|solutionrelative:pharmacy_api\\controllers\\authcontrolle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|c:\\users\\saras\\onedrive\\dokumenty\\programowanie-projekty\\api_pz\\pharmacy_api\\pharmacy_api\\infrastructure\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|solutionrelative:pharmacy_api\\infrastructure\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|c:\\users\\saras\\onedrive\\dokumenty\\programowanie-projekty\\api_pz\\pharmacy_api\\pharmacy_api\\infrastructure\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|solutionrelative:pharmacy_api\\infrastructure\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|c:\\users\\saras\\onedrive\\dokumenty\\programowanie-projekty\\api_pz\\pharmacy_api\\pharmacy_api\\pharmacy_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|solutionrelative:pharmacy_api\\pharmacy_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Infrastructure\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "Pharmacy_API\\Infrastructure\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Infrastructure\\JwtTokenService.cs",
+              "RelativeToolTip": "Pharmacy_API\\Infrastructure\\JwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T16:52:18.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthControlle.cs",
+              "DocumentMoniker": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Controllers\\AuthControlle.cs",
+              "RelativeDocumentMoniker": "Pharmacy_API\\Controllers\\AuthControlle.cs",
+              "ToolTip": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Controllers\\AuthControlle.cs",
+              "RelativeToolTip": "Pharmacy_API\\Controllers\\AuthControlle.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T16:44:41.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pharmacy_API.http",
+              "DocumentMoniker": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Pharmacy_API.http",
+              "RelativeDocumentMoniker": "Pharmacy_API\\Pharmacy_API.http",
+              "ToolTip": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Pharmacy_API.http",
+              "RelativeToolTip": "Pharmacy_API\\Pharmacy_API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-20T16:41:40.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IJwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Infrastructure\\IJwtTokenService.cs",
+              "RelativeDocumentMoniker": "Pharmacy_API\\Infrastructure\\IJwtTokenService.cs",
+              "ToolTip": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Infrastructure\\IJwtTokenService.cs",
+              "RelativeToolTip": "Pharmacy_API\\Infrastructure\\IJwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T16:40:41.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Program.cs",
+              "RelativeDocumentMoniker": "Pharmacy_API\\Program.cs",
+              "ToolTip": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Program.cs",
+              "RelativeToolTip": "Pharmacy_API\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T16:17:42.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
