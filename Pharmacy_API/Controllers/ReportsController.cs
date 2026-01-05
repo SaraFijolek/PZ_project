@@ -7,7 +7,7 @@ namespace Pharmacy_API.Controllers
 {
     [ApiController]
     [Route("reports")]
-    [Authorize(Roles = "Admin")]
+    [Authorize(Policy = "Admin")]
     public class ReportsController : ControllerBase
     {
         private readonly ApplicationDbContext _db;

@@ -2,6 +2,7 @@
 {
     public class CreateFakturaDto
     {
+        public int ID_Pracownika { get; set; }
         public int ID_Leku { get; set; }
         public int? ID_Klienta { get; set; }
         public int Ilosc { get; set; } = 1;

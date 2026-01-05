@@ -9,7 +9,7 @@ namespace Pharmacy_API.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    [Authorize(Roles = "Worker")]
+    [Authorize(Policy = "Worker")]
     public class KlienciController : ControllerBase
     {
         private readonly ApplicationDbContext _db;
@@ -93,7 +93,7 @@ namespace Pharmacy_API.Controllers
         }
 
         [HttpDelete("{id}")]
-        [Authorize(Roles = "Admin")]
+        [Authorize(Policy = "Admin")]
         public async Task<IActionResult> Delete(int id)
         {
             var klient = await _db.KLIENT.FindAsync(id);

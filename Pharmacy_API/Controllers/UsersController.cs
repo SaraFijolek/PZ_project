@@ -10,7 +10,7 @@ namespace Pharmacy_API.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    [Authorize(Roles  = "Admin")]
+    [Authorize(Policy  = "Admin")]
     public class UsersController : ControllerBase
     {
         private readonly UserManager<ApplicationUser> _userManager;

@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|c:\\users\\saras\\onedrive\\dokumenty\\programowanie-projekty\\api_pz\\pharmacy_api\\pharmacy_api\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|solutionrelative:pharmacy_api\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|c:\\users\\saras\\onedrive\\dokumenty\\programowanie-projekty\\api_pz\\pharmacy_api\\pharmacy_api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|solutionrelative:pharmacy_api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|c:\\users\\saras\\onedrive\\dokumenty\\programowanie-projekty\\api_pz\\pharmacy_api\\pharmacy_api\\controllers\\lekicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|solutionrelative:pharmacy_api\\controllers\\lekicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|c:\\users\\saras\\onedrive\\dokumenty\\programowanie-projekty\\api_pz\\pharmacy_api\\pharmacy_api\\controllers\\fakturycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|solutionrelative:pharmacy_api\\controllers\\fakturycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|c:\\users\\saras\\onedrive\\dokumenty\\programowanie-projekty\\api_pz\\pharmacy_api\\pharmacy_api\\models\\faktura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|solutionrelative:pharmacy_api\\models\\faktura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|c:\\users\\saras\\onedrive\\dokumenty\\programowanie-projekty\\api_pz\\pharmacy_api\\pharmacy_api\\dto\\createfakturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|solutionrelative:pharmacy_api\\dto\\createfakturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|c:\\users\\saras\\onedrive\\dokumenty\\programowanie-projekty\\api_pz\\pharmacy_api\\pharmacy_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|solutionrelative:pharmacy_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|c:\\users\\saras\\onedrive\\dokumenty\\programowanie-projekty\\api_pz\\pharmacy_api\\pharmacy_api\\dto\\validateprescriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|solutionrelative:pharmacy_api\\dto\\validateprescriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|c:\\users\\saras\\onedrive\\dokumenty\\programowanie-projekty\\api_pz\\pharmacy_api\\pharmacy_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|solutionrelative:pharmacy_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|c:\\users\\saras\\onedrive\\dokumenty\\programowanie-projekty\\api_pz\\pharmacy_api\\pharmacy_api\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,58 +42,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\appsettings.json",
-              "RelativeDocumentMoniker": "Pharmacy_API\\appsettings.json",
-              "ToolTip": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\appsettings.json",
-              "RelativeToolTip": "Pharmacy_API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-28T16:22:22.378Z",
+              "Title": "LekiController.cs",
+              "DocumentMoniker": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Controllers\\LekiController.cs",
+              "RelativeDocumentMoniker": "Pharmacy_API\\Controllers\\LekiController.cs",
+              "ToolTip": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Controllers\\LekiController.cs",
+              "RelativeToolTip": "Pharmacy_API\\Controllers\\LekiController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T17:48:27.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Program.cs",
-              "RelativeDocumentMoniker": "Pharmacy_API\\Program.cs",
-              "ToolTip": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Program.cs",
-              "RelativeToolTip": "Pharmacy_API\\Program.cs",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJMAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Faktura.cs",
+              "DocumentMoniker": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Models\\Faktura.cs",
+              "RelativeDocumentMoniker": "Pharmacy_API\\Models\\Faktura.cs",
+              "ToolTip": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Models\\Faktura.cs",
+              "RelativeToolTip": "Pharmacy_API\\Models\\Faktura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T19:52:26.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ValidatePrescriptionDto.cs",
-              "DocumentMoniker": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\DTO\\ValidatePrescriptionDto.cs",
-              "RelativeDocumentMoniker": "Pharmacy_API\\DTO\\ValidatePrescriptionDto.cs",
-              "ToolTip": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\DTO\\ValidatePrescriptionDto.cs",
-              "RelativeToolTip": "Pharmacy_API\\DTO\\ValidatePrescriptionDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T19:32:48.165Z",
+              "WhenOpened": "2026-01-05T16:45:37.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "FakturyController.cs",
+              "DocumentMoniker": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Controllers\\FakturyController.cs",
+              "RelativeDocumentMoniker": "Pharmacy_API\\Controllers\\FakturyController.cs",
+              "ToolTip": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Controllers\\FakturyController.cs",
+              "RelativeToolTip": "Pharmacy_API\\Controllers\\FakturyController.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAYwOIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T16:22:45.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateFakturaDto.cs",
+              "DocumentMoniker": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\DTO\\CreateFakturaDto.cs",
+              "RelativeDocumentMoniker": "Pharmacy_API\\DTO\\CreateFakturaDto.cs",
+              "ToolTip": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\DTO\\CreateFakturaDto.cs",
+              "RelativeToolTip": "Pharmacy_API\\DTO\\CreateFakturaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T16:21:48.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Pharmacy_API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Pharmacy_API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:23:18.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "Pharmacy_API\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "Pharmacy_API\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:22:56.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ProfileController.cs",
               "DocumentMoniker": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Controllers\\ProfileController.cs",
               "RelativeDocumentMoniker": "Pharmacy_API\\Controllers\\ProfileController.cs",
               "ToolTip": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Controllers\\ProfileController.cs",
               "RelativeToolTip": "Pharmacy_API\\Controllers\\ProfileController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwBYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T16:42:35.764Z"
+              "WhenOpened": "2026-01-05T15:22:35.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Program.cs",
+              "RelativeDocumentMoniker": "Pharmacy_API\\Program.cs",
+              "ToolTip": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Program.cs",
+              "RelativeToolTip": "Pharmacy_API\\Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAG0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:52:26.428Z",
+              "EditorCaption": ""
             }
           ]
         }

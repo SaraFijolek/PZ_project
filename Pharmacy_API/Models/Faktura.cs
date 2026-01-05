@@ -15,12 +15,12 @@ namespace Pharmacy_API.Models
         public string Dane_pracownika { get; set; }
         public DateTime Data_wystawienia { get; set; }
 
-        
+
         public int Ilosc { get; set; } = 1;
         [Column(TypeName = "decimal(10,2)")]
-        public decimal Cena_sprzedazy { get; set; } 
+        public decimal Cena_sprzedazy { get; set; }
 
-     
+
         public int? ID_Leku { get; set; }
         [ForeignKey("ID_Leku")]
         public Lek Lek { get; set; }

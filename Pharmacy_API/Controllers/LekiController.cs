@@ -13,11 +13,12 @@ namespace Pharmacy_API.Controllers
         public LekiController(ApplicationDbContext db) { _db = db; }
 
         [HttpGet]
-        [Authorize(Roles = "Worker")]
+        [Route("api/[controller]")]
+        [Authorize(Policy = "Worker")]
         public async Task<IActionResult> GetAll() => Ok(await _db.LEKI.ToListAsync());
 
         [HttpGet("{id}")]
-        [Authorize(Roles = "Worker")]
+        [Authorize(Policy = "Worker")]
         public async Task<IActionResult> Get(int id)
         {
             var lek = await _db.LEKI.FindAsync(id);
@@ -26,7 +27,8 @@ namespace Pharmacy_API.Controllers
         }
 
         [HttpPost]
-        [Authorize(Roles = "Admin")]
+        [Route("api/[controller]")]
+        [Authorize(Policy = "Admin")]
         public async Task<IActionResult> Create([FromBody] Lek model)
         {
             _db.LEKI.Add(model);
@@ -35,7 +37,7 @@ namespace Pharmacy_API.Controllers
         }
 
         [HttpPut("{id}")]
-        [Authorize(Roles = "Admin")]
+        [Authorize(Policy = "Admin")]
         public async Task<IActionResult> Update(int id, [FromBody] Lek model)
         {
             var lek = await _db.LEKI.FindAsync(id);
@@ -53,7 +55,7 @@ namespace Pharmacy_API.Controllers
         }
 
         [HttpDelete("{id}")]
-        [Authorize(Roles = "Admin")]
+        [Authorize(Policy = "Admin")]
         public async Task<IActionResult> Delete(int id)
         {
             var lek = await _db.LEKI.FindAsync(id);
@@ -65,7 +67,7 @@ namespace Pharmacy_API.Controllers
 
         
         [HttpGet("search")]
-        [Authorize(Roles = "Worker")]
+        [Authorize(Policy = "Worker")]
         public async Task<IActionResult> Search([FromQuery] string q)
         {
             var results = await _db.LEKI
@@ -74,7 +76,7 @@ namespace Pharmacy_API.Controllers
             return Ok(results);
         }
         [HttpPost("validate-prescription")]
-        [Authorize(Roles = "Worker")]
+        [Authorize(Policy = "Worker")]
         public async Task<IActionResult> ValidatePrescription([FromBody] ValidatePrescriptionDto dto)
         {
             var lek = await _db.LEKI.FindAsync(dto.ID_Leku);
