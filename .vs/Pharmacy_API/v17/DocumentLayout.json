@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "Pharmacy_API\\Controllers\\ProfileController.cs",
               "ToolTip": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\Controllers\\ProfileController.cs",
               "RelativeToolTip": "Pharmacy_API\\Controllers\\ProfileController.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAwwEQAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowEQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T18:45:07.195Z",
               "EditorCaption": ""
@@ -61,7 +61,7 @@
               "RelativeDocumentMoniker": "Pharmacy_API\\DTO\\UpdateProfileDto.cs",
               "ToolTip": "C:\\Users\\saras\\OneDrive\\Dokumenty\\programowanie-projekty\\Api_PZ\\Pharmacy_API\\Pharmacy_API\\DTO\\UpdateProfileDto.cs",
               "RelativeToolTip": "Pharmacy_API\\DTO\\UpdateProfileDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T18:44:03.394Z",
               "EditorCaption": ""
@@ -76,8 +76,7 @@
               "RelativeToolTip": "Pharmacy_API\\Controllers\\FakturyController.cs",
               "ViewState": "AgIAAIgAAAAAAAAAAAAAwOIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T16:22:45.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T16:22:45.419Z"
             },
             {
               "$type": "Document",
@@ -113,8 +112,7 @@
               "RelativeToolTip": "Pharmacy_API\\Controllers\\ReportsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T15:22:56.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T15:22:56.784Z"
             },
             {
               "$type": "Document",

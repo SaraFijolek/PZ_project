@@ -4,6 +4,6 @@
     {
         public string? Imie { get; set; }
         public string? Nazwisko { get; set; }
-        public string? Zmianna{ get; set; }
+        public string? Zmiana{ get; set; }
     }
 }
