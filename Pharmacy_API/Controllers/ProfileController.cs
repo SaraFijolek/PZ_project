@@ -65,8 +65,8 @@ namespace Pharmacy_API.Controllers
             if (!string.IsNullOrEmpty(dto.Nazwisko))
                 user.Nazwisko = dto.Nazwisko;
 
-            if (!string.IsNullOrEmpty(dto.NumerTelefonu))
-                user.PhoneNumber = dto.NumerTelefonu;
+            if (!string.IsNullOrEmpty(dto.Zmianna))
+                user.Zmiana = dto.Zmianna;
 
             var result = await _userManager.UpdateAsync(user);
             if (!result.Succeeded)
