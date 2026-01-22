@@ -4,7 +4,9 @@ Aby zalogować się jako administrator, sprawdź dane logowania w pliku `appsett
 
 Adres API dla front-endu: `https://localhost:7220`
 
-# Uruchomienie API :     to  trzeba  mieć  visual studio i sql  server . Ważne  trzeba  w  pliku appsettings.json zmienić  "DefaultConnection": "Twoja nazwa bazy danych" i zrobić  dwa poleceniania w konsoli w vs :
+# Uruchomienie API : 
+to  trzeba  mieć  visual studio i sql  server .
+Ważne  trzeba  w  pliku appsettings.json zmienić  "DefaultConnection": "Twoja nazwa bazy danych" i zrobić  dwa poleceniania w konsoli w vs :
 
 Add-migration NazwaMigracji a potem 
 Update-database
