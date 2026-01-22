@@ -7,7 +7,7 @@ Adres API dla front-endu: `https://localhost:7220`
 # Testy
 
 ### Uruchamianie
-Pharmacy_Test -> Dependencies -> Add Project Reference...
+Pharmacy_Test -> Dependencies -> Add Project Reference... <br />
 Test -> Test Explorer -> Run All Tests In View
 
 > [!IMPORTANT]
