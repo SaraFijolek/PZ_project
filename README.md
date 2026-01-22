@@ -8,7 +8,8 @@ Adres API dla front-endu: `https://localhost:7220`
 to  trzeba  mieć  visual studio i sql  server .
 Ważne  trzeba  w  pliku appsettings.json zmienić  "DefaultConnection": "Twoja nazwa bazy danych" i zrobić  dwa poleceniania w konsoli w vs :
 
-Add-migration NazwaMigracji a potem 
+Add-migration NazwaMigracji 
+a potem 
 Update-database
 
 # Testy
