@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Pharmacy\\PZ_project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Pharmacy\\PZ_project\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{7236273F-30FC-4481-B6F8-A6F66A12826B}|Pharmacy_Test\\Pharmacy_Test.csproj|c:\\users\\user\\desktop\\pharmacy\\pz_project\\pharmacy_test\\reportscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7236273F-30FC-4481-B6F8-A6F66A12826B}|Pharmacy_Test\\Pharmacy_Test.csproj|solutionrelative:pharmacy_test\\reportscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7236273F-30FC-4481-B6F8-A6F66A12826B}|Pharmacy_Test\\Pharmacy_Test.csproj|c:\\users\\user\\desktop\\pharmacy\\pz_project\\pharmacy_test\\testreportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7236273F-30FC-4481-B6F8-A6F66A12826B}|Pharmacy_Test\\Pharmacy_Test.csproj|solutionrelative:pharmacy_test\\testreportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7236273F-30FC-4481-B6F8-A6F66A12826B}|Pharmacy_Test\\Pharmacy_Test.csproj|c:\\users\\user\\desktop\\pharmacy\\pz_project\\pharmacy_test\\lektests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7236273F-30FC-4481-B6F8-A6F66A12826B}|Pharmacy_Test\\Pharmacy_Test.csproj|solutionrelative:pharmacy_test\\lektests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7236273F-30FC-4481-B6F8-A6F66A12826B}|Pharmacy_Test\\Pharmacy_Test.csproj|c:\\users\\user\\desktop\\pharmacy\\pz_project\\pharmacy_test\\lekicontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7236273F-30FC-4481-B6F8-A6F66A12826B}|Pharmacy_Test\\Pharmacy_Test.csproj|solutionrelative:pharmacy_test\\lekicontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|c:\\users\\user\\desktop\\pharmacy\\pz_project\\pharmacy_api\\models\\lek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|solutionrelative:pharmacy_api\\models\\lek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|c:\\users\\user\\desktop\\pharmacy\\pz_project\\pharmacy_api\\controllers\\lekicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|solutionrelative:pharmacy_api\\controllers\\lekicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|c:\\users\\user\\desktop\\pharmacy\\pz_project\\pharmacy_api\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|solutionrelative:pharmacy_api\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|c:\\users\\user\\desktop\\pharmacy\\pz_project\\pharmacy_api\\models\\faktura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58CFF03-D406-42B6-96CE-CCE43ED49A3D}|Pharmacy_API\\Pharmacy_API.csproj|solutionrelative:pharmacy_api\\models\\faktura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,6 +46,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
@@ -46,45 +58,76 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pharmacy\\PZ_project\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Pharmacy\\PZ_project\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAFUAAAAHAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2026-01-08T01:00:16.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TestReportsController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pharmacy\\PZ_project\\Pharmacy_Test\\TestReportsController.cs",
-              "RelativeDocumentMoniker": "Pharmacy_Test\\TestReportsController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Pharmacy\\PZ_project\\Pharmacy_Test\\TestReportsController.cs",
-              "RelativeToolTip": "Pharmacy_Test\\TestReportsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "LekiControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pharmacy\\PZ_project\\Pharmacy_Test\\LekiControllerTest.cs",
+              "RelativeDocumentMoniker": "Pharmacy_Test\\LekiControllerTest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Pharmacy\\PZ_project\\Pharmacy_Test\\LekiControllerTest.cs",
+              "RelativeToolTip": "Pharmacy_Test\\LekiControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T00:21:48.08Z",
+              "WhenOpened": "2026-01-22T15:11:15.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "LekiController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pharmacy\\PZ_project\\Pharmacy_API\\Controllers\\LekiController.cs",
+              "RelativeDocumentMoniker": "Pharmacy_API\\Controllers\\LekiController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Pharmacy\\PZ_project\\Pharmacy_API\\Controllers\\LekiController.cs",
+              "RelativeToolTip": "Pharmacy_API\\Controllers\\LekiController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T15:10:51.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Faktura.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pharmacy\\PZ_project\\Pharmacy_API\\Models\\Faktura.cs",
+              "RelativeDocumentMoniker": "Pharmacy_API\\Models\\Faktura.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Pharmacy\\PZ_project\\Pharmacy_API\\Models\\Faktura.cs",
+              "RelativeToolTip": "Pharmacy_API\\Models\\Faktura.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T14:45:46.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pharmacy\\PZ_project\\Pharmacy_API\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "Pharmacy_API\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Pharmacy\\PZ_project\\Pharmacy_API\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "Pharmacy_API\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T11:29:03.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportsControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pharmacy\\PZ_project\\Pharmacy_Test\\ReportsControllerTest.cs",
+              "RelativeDocumentMoniker": "Pharmacy_Test\\ReportsControllerTest.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Pharmacy\\PZ_project\\Pharmacy_Test\\ReportsControllerTest.cs",
+              "RelativeToolTip": "Pharmacy_Test\\ReportsControllerTest.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T13:50:55.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Lek.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pharmacy\\PZ_project\\Pharmacy_API\\Models\\Lek.cs",
               "RelativeDocumentMoniker": "Pharmacy_API\\Models\\Lek.cs",
@@ -92,19 +135,8 @@
               "RelativeToolTip": "Pharmacy_API\\Models\\Lek.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T00:04:24.825Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LekTests.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pharmacy\\PZ_project\\Pharmacy_Test\\LekTests.cs",
-              "RelativeDocumentMoniker": "Pharmacy_Test\\LekTests.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Pharmacy\\PZ_project\\Pharmacy_Test\\LekTests.cs",
-              "RelativeToolTip": "Pharmacy_Test\\LekTests.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowA4AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T23:40:46.965Z"
+              "WhenOpened": "2026-01-08T00:04:24.825Z",
+              "EditorCaption": ""
             }
           ]
         }
